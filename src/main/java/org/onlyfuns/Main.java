@@ -6,5 +6,6 @@ public class Main {
     static void main() {
         System.out.println("Onlyfuns hello");
         System.out.println("Hellow world!");
+        System.out.println("PUTIN");
     }
 }
