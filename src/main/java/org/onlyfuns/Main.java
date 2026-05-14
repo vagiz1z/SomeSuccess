@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Onlyfuns hello");
         System.out.println("Hellow world!");
         System.out.println("PUTIN");
+        //Aloha boba
     }
 }
